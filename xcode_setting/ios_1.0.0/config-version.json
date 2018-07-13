@@ -1,0 +1,163 @@
+{
+    "code": 0,
+    "data": {
+        "config": {
+            "appStructure": "0",
+            "columnBackgroundColor": "EEEEEE",
+            "columnTitleColor": "333333",
+            "columnTitleSelectColor": "FF5F5F",
+            "skinColor": "B40202",
+            "tabBackgroundColor": "D1D1D1",
+            "tabTitleColor": "333333",
+            "tabTitleSelectColor": "db5149"
+        },
+        "tabs": [
+                 {
+                 "columnList": [
+                                {
+                                "columnId": "15369",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/yc/_cl/9/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "原创"
+                                },
+                                {
+                                "columnId": "15370",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/cj/_cl/10/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "财经"
+                                }
+                                ],
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509067460881.png",
+                 "siteId": 14,
+                 "tabId": "39",
+                 "tabImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509067457367.png",
+                 "tabLink": null,
+                 "tabTitle": "首页"
+                 },
+                 {
+                 "columnList": [
+                                {
+                                "columnId": "15374",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/kj/_cl/14/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "科技"
+                                },
+                                {
+                                "columnId": "15373",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/wh/_cl/13/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "文化"
+                                },
+                                {
+                                "columnId": "15372",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/gj/_cl/12/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "国际"
+                                }
+                                ],
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072399573.png",
+                 "siteId": 14,
+                 "tabId": "36",
+                 "tabImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072402536.png",
+                 "tabLink": null,
+                 "tabTitle": "视频"
+                 },
+                 {
+                 "columnList": [
+                                {
+                                "columnId": "15363",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/ys/_cl/3/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "艺术"
+                                },
+                                {
+                                "columnId": "15359",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/ty/_cl/31/31/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "体育"
+                                },
+                                {
+                                "columnId": "15360",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/sz/_cl/0/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "时政"
+                                }
+                                ],
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072656176.png",
+                 "siteId": 14,
+                 "tabId": "37",
+                 "tabImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072659804.png",
+                 "tabLink": null,
+                 "tabTitle": "融合号"
+                 },
+                 {
+                 "columnList": [
+                                {
+                                "columnId": "15376",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/wsp/_cl/16/0/list_1.json",
+                                "columnStyle": "3",
+                                "columnTitle": "视频"
+                                },
+                                {
+                                "columnId": "15375",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/ksh/_cl/15/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "可视化"
+                                },
+                                {
+                                "columnId": "15374",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/kj/_cl/14/0/list_1.json",
+                                "columnStyle": "0",
+                                "columnTitle": "科技"
+                                }
+                                ],
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072741220.png",
+                 "siteId": 14,
+                 "tabId": "38",
+                 "tabImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072744499.png",
+                 "tabLink": null,
+                 "tabTitle": "工作室"
+                 },
+                 {
+                 "columnList": [
+                                {
+                                "columnId": "15379",
+                                "columnLink": "http://mp.dev.hubpd.com/pub/News/publishfile/wd/_cl/19/0/list_1.json",
+                                "columnStyle": "5",
+                                "columnTitle": "我的"
+                                }
+                                ],
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072539232.png",
+                 "siteId": 14,
+                 "tabId": "48",
+                 "tabImage": "http://mp.dev.hubpd.com/xmtmedia//upload/image/2017/10/27/1509072542355.png",
+                 "tabLink": null,
+                 "tabTitle": "我的"
+                 }
+                 ],
+        "version": "1.0"
+    },
+    "message": "",
+    "publishTime": "1509092887721",
+    "@Class": "com.zving.xmt.po.APPResult"
+}

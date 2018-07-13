@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "data": {
+        "colum": [{
+                  "columnTitle": "安新县",
+                  "columnId": "15369",
+                  "columnLink": "json/zw/axx/",
+                  "columnStyle": 0,
+                  },{
+                  "columnTitle": "容城县",
+                  "columnId": "15374",
+                  "columnLink": "json/zw/rc/",
+                  "columnStyle": 1,
+                  },{
+                  "columnTitle": "雄县",
+                  "columnId": "15375",
+                  "columnLink": "json/zw/xx/",
+                  "columnStyle": 2,
+                  },],
+        "version": "2.0"
+    },
+}
+

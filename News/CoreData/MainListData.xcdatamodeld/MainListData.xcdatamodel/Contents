@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16B2555" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="NewsListData" representedClassName="NewsListData" syncable="YES" codeGenerationType="class">
+        <attribute name="articleId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="articleTag" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="author" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="columnId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="columnName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageUrls" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="isFavourite" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="publishTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="source" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="summary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="videoLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="videoThumb" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="NewsListData" positionX="-18" positionY="27" width="128" height="300"/>
+    </elements>
+</model>

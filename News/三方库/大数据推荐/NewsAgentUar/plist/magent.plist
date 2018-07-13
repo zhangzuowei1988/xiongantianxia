@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>environment</key>
+	<string>product</string>
+	<key>AppVersion</key>
+	<string>1.0</string>
+	<key>sessioninbgtimeouts</key>
+	<string>30</string>
+	<key>maxcachemb</key>
+	<string>10</string>
+	<key>sendNumber</key>
+	<string>100</string>
+	<key>sendInterval</key>
+	<string>86400</string>
+	<key>sendPolicy</key>
+	<string>BATCHING</string>
+	<key>sendNet</key>
+	<string>WIFI</string>
+	<key>AppKey</key>
+	<string>UAR-000279_943</string>
+	<key>Channel</key>
+	<string>AppStore</string>
+</dict>
+</plist>

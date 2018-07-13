@@ -1,0 +1,28 @@
+{
+    "code": 0,
+    "data": {
+        "colum": [{
+            "columnTitle": "推荐",
+            "columnId": "15369",
+                  "columnLink": "json/xa/tj/",
+            "columnStyle": 0,
+                  },{
+                  "columnTitle": "雄安大事",
+                  "columnId": "15374",
+                  "columnLink": "xa/xads/",
+                  "columnStyle": 1,
+                  },{
+                  "columnTitle": "关于雄安",
+                  "columnId": "15375",
+                  "columnLink": "json/xa/gyxa/",
+                  "columnStyle": 2,
+                  },{
+                  "columnTitle": "雄安未来",
+                  "columnId": "15376",
+                  "columnLink": "json/xa/xawl/",
+                  "columnStyle": 3,
+                  }],
+        "version": "2.0"
+    },
+}
+

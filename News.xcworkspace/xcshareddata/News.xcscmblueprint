@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D3BCC24D7863D976F7505C5D30B3BA6EFBCE5D1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f4376172-3ad7-4c82-802c-81c023d74e42++1626" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f4376172-3ad7-4c82-802c-81c023d74e42++1626" : 9223372036854775807,
+    "D3BCC24D7863D976F7505C5D30B3BA6EFBCE5D1D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1746F0B3-8B4C-4D8F-BE88-4E69FD6405A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f4376172-3ad7-4c82-802c-81c023d74e42++1626" : "NewMediaProject\/source\/mobile\/ios\/trunk\/News\/News\/pdmiFMDB\/",
+    "D3BCC24D7863D976F7505C5D30B3BA6EFBCE5D1D" : "NewMediaProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "News",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "source\/mobile\/ios\/trunk\/News\/News.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/10.100.13.22:8080\/tfs\/Omnimedia\/_git\/NewMediaProject",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3BCC24D7863D976F7505C5D30B3BA6EFBCE5D1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/meap.nationsky.com\/BOCeService",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f4376172-3ad7-4c82-802c-81c023d74e42++1626"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+@font-face {
+    font-family: '汉仪旗黑';
+    src: url('../HYQiHei-50J.ttf');
+}
+
+* {
+    padding:0;
+    margin:0;
+}
+body{
+    font-size:14px; 
+}
+#container {
+   
+    width: 96%;
+    margin-left: 2%;
+    margin-top:0px ;
+    margin-top:5px;
+    color: #333333;
+    font-size: 18px;
+    line-height:30pt;
+    background-color:rgba(0,0,0,0.0);
+    font-family:"PingFangSC-Light" !important;
+    text-indent:2em;
+}
+#container p{
+    /*    text-indent:2em;*/
+    margin-bottom:10px;
+    font-family:"PingFangSC-Light" !important;
+    color: #222222;
+    font-size: 18px;
+    line-height:22pt!important;
+}
+#container span{
+    /*    text-indent:2em;*/
+    margin-bottom:10px;
+    font-family:"PingFangSC-Light" !important;
+    color: #222222;
+    font-size: 18px;
+    line-height:22pt !important;
+}
+
+#container img{
+    margin-top:10px !important;
+    margin-bottom:10px !important;
+    width:100% !important;
+    height:100%!important;
+    
+}
+#container video{
+    margin-top:10px !important;
+    margin-bottom:10px !important;
+    width:100% !important;
+    height:100%!important;
+    
+}
+
+#container  img {float:left!important;}
+#container  video {float:left!important;}
+/*video {*/
+/*    object-fit: contain;*/
+/*}*/
+
+
+.video_container {
+    height:180px!important;
+}
+/*#container img {*/
+/*    display: block;*/
+/*    margin-left: 10px  auto  ;*/
+/*   */
+/*}important*/
+/**/
+/*#content {*/
+/*    color: #3c3c3c;*/
+/*    letter-spacing: 1px;*/
+/*}*/
+/**/
+/*#content p {*/
+/*    margin: 0px 0px 15px 0px;*/
+/*}*/
+/**/
+/*#content img {*/
+/*    display: block;*/
+/*    margin: 20px auto;*/
+/*}*/

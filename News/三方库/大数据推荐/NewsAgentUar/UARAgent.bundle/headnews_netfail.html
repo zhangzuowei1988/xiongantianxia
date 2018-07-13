@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <meta http-equiv="Content-Type"    content="text/html;charset=UTF-8">
+            <script type="text/javascript">
+                
+                // sdk取js的数据
+                function doReload(){
+                    if (!window["reloadList"]){
+                        alert("error:no sdk interface[reloadList] found!");
+                        //window.android.reloadList()//android
+                    } else {
+                        window["reloadList"]();
+                    }
+                }
+            </script>
+		<meta charset="UTF-8">
+		<title>断网了</title>
+	</head>
+	<body bgcolor="#DDDDDD">
+        <a href="javascript:void(0);" onclick="doReload()">
+		<img src="newssdk_offline.png" style="width: 100%;"/>
+        </a>
+	</body>
+</html>

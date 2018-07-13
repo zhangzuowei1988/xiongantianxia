@@ -1,0 +1,30 @@
+//
+//  News-Prefix.pch
+//  News
+//
+//  Created by pdmi on 2017/7/6.
+//  Copyright © 2017年 pdmcom.pdmi.test. All rights reserved.
+//
+
+#ifndef News_Prefix_pch
+#define News_Prefix_pch
+
+#import "Base.h"
+#import "GlobalMacroPhc.h"
+
+#import "CommData.h"
+#import "PDMIJSON.h"
+#import "NewsNetWork.h"
+#import "PDMIObjectBase.h"
+#import "BaseCollectionCell.h"
+#import "BaseTableCell.h"
+#import "BaseView.h"
+#import "SVProgressHUD.h"
+#import "NewsNetWork.h"
+#import "PDMIDeviceInfo.h"
+#import "XAUIViewExt.h"
+#import "MJExtension.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* News_Prefix_pch */

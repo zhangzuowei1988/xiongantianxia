@@ -1,0 +1,72 @@
+-x
+objective-c
+-arch
+arm64
+-std=gnu99
+-fobjc-arc
+-fmodules
+-gmodules
+-fbuild-session-file=/var/folders/2p/_dm__8wx393_06pp432nk_r00000gn/C/org.llvm.clang/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-Os
+-fno-common
+-DCOCOAPODS=1
+-DNS_BLOCK_ASSERTIONS=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk
+-miphoneos-version-min=8.0
+-g
+-fvisibility=hidden
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/include
+-I/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/GCDWebServer
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQDropDownTextField
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQKeyboardManager
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/Masonry
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/SSZipArchive
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/News/分享/UMSocial/UMSocialSDK
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/News/分享/UMSocial/UMSocialUI
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/News/第三方登录/UMSocial/UMSocialSDK
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/News/第三方登录/UMSocial/UMSocialUI
+-F/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/News/PDMILocation
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/GCDWebServer/GCDWebServer.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQDropDownTextField/IQDropDownTextField.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQKeyboardManager/IQKeyboardManager.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/Masonry/Masonry.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/SSZipArchive/SSZipArchive.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/CocoaLumberjack/CocoaLumberjack.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/GCDWebServer/GCDWebServer.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQDropDownTextField/IQDropDownTextField.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/IQKeyboardManager/IQKeyboardManager.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/Masonry/Masonry.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/NSObject-SafeExpectations/NSObject_SafeExpectations.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/UIAlertView+Blocks/UIAlertView_Blocks.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/WYPopoverController/WYPopoverController.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/WordPress-Editor-iOS-Extension/WordPress_Editor_iOS_Extension.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/WordPress-iOS-Shared/WordPressShared.framework/Headers
+-iquote
+/Users/pdmi/Desktop/新闻app资料/ 新媒体/source/mobile/ios/trunk/News/build/Release-iphoneos/WordPressCom-Analytics-iOS/WordPressComAnalytics.framework/Headers
+aarch64-apple-darwin16.1.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42)"
+SDK_PRODUCT_BUILD_VERSION=14E8301
+14E8301

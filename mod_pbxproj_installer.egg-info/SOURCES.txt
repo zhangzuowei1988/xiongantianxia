@@ -1,0 +1,6 @@
+xcode_auto_configurator.py
+mod_pbxproj_installer.egg-info/PKG-INFO
+mod_pbxproj_installer.egg-info/SOURCES.txt
+mod_pbxproj_installer.egg-info/dependency_links.txt
+mod_pbxproj_installer.egg-info/requires.txt
+mod_pbxproj_installer.egg-info/top_level.txt

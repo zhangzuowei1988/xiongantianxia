@@ -1,0 +1,69 @@
+{
+    "code": 0,
+    "data": {
+        "config": {
+            "appStructure": "0",
+            "skinColor": "0xc82d27",
+            "tabBackgroundColor": "0xFFFFFF",
+            "tabTitleColor": "0x333333",
+            "tabTitleSelectColor": "0xdb5149",
+            "columnBackgroundColor": "0xFFFFFF",
+            "columnTitleColor": "0x888888",
+            "columnTitleSelectColor": "0xff4d4d"
+        },
+        "tabs": [
+                 {
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "0",
+                 "search": false,
+                 "selectImage": "tab_home_image",
+                 "siteId": 14,
+                 "tabId": "36",
+                 "tabImage": "tab_home_norImage",
+                 "tabLink": null,
+                 "tabTitle": "雄安"
+                 },
+                 {
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "1",
+                 "search": false,
+                 "selectImage": "tab_news_image",
+                 "siteId": 14,
+                 "tabId": "39",
+                 "tabImage": "tab_news_norImage",
+                 "tabLink": null,
+                 "tabTitle": "新闻"
+                 },
+                 {
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "2",
+                 "search": false,
+                 "selectImage": "tab_work_image",
+                 "siteId": 14,
+                 "tabId": "36",
+                 "tabImage": "tab_work_norImage",
+                 "tabLink": null,
+                 "tabTitle": "政务"
+                 },
+                                  {
+                 "columnNavType": "1",
+                 "navigationStyle": 1,
+                 "pageStyle": "3",
+                 "search": false,
+                 "selectImage": "tab_service_image",
+                 "siteId": 14,
+                 "tabId": "48",
+                 "tabImage": "tab_service_norImage",
+                 "tabLink": null,
+                 "tabTitle": "办事"
+                 }
+                 ],
+        "version": "1.0"
+    },
+    "message": "",
+    "publishTime": "1509092887721",
+    "@Class": "com.zving.xmt.po.APPResult"
+}
